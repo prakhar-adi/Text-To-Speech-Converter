@@ -14,12 +14,18 @@ It uses the **Web Speech API** to convert written text into spoken words with mu
 ---
 
 ## 📂 Project Structure
+```
 text-to-speech-converter/
-│── index.html # Main HTML file
-│── style.css # Styling
-│── script.js # Functionality
-│── images/ # Icons (play.png, dropdown.png, screenshots)
+│── index.html       # Main HTML file
+│── style.css        # Styling
+│── script.js        # Functionality
+│── images/          # Icons & Screenshots
+│    ├── play.png
+│    ├── dropdown.png
+│    ├── screenshot1.png
+│    └── screenshot2.png
 
+```
 
 ---
 
@@ -42,11 +48,11 @@ That’s it! 🎉
 
 ### 🛠️ Technologies Used
 
-HTML5
+- HTML5
 
-CSS3
+- CSS3
 
-JavaScript (Web Speech API)
+ - JavaScript (Web Speech API)
 
 ---
 
